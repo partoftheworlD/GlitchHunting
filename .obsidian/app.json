@@ -1,0 +1,24 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "fileSortOrder": "alphabetical",
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 99
+  },
+  "attachmentFolderPath": "./attachments",
+  "defaultViewMode": "preview",
+  "newFileLocation": "current",
+  "spellcheck": true,
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "foldHeading": true,
+  "lineWrap": true,
+  "spellcheckLanguages": null,
+  "vimMode": false
+}

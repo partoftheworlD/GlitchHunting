@@ -1,0 +1,20 @@
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F2"
+    }
+  ],
+  "daily-notes": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "ccb5a55abe5949e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "021c4202274ec770",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00. Заметки/00.03 Аниме/Расписание.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02c8964f5d0a17db",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb0b4a05d86612e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f869be8f08fd64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "61df526f8b21ad4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bee61f7efc965bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "9345edd382aafa06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd90bc9f816f381c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00. Заметки/00.03 Аниме/Расписание.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4d92a7e9506b9f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00. Заметки/00.03 Аниме/Расписание.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9d3cba64a50b5e0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "021c4202274ec770",
+  "lastOpenFiles": [
+    "03. Speedruns/03.02. CIV6/Categories/Science/Gathering storm.md",
+    "00. Заметки/00.03 Аниме/Расписание.md",
+    "00. Заметки/00.03 Аниме/Запланировано.md",
+    "03. Speedruns/03.02. CIV6/Categories/Science/notes.md",
+    "00. Заметки/Desmos.md",
+    "00. Заметки/00.08 Wireguard/notes.md",
+    "03. Speedruns/03.02. CIV6/Categories/Nuke/Nuke%.md",
+    "02. Reverse Engineering/02.01. std_type_info_name/__std_type_info_name.md",
+    "03. Speedruns/03.01 Livesplit/03.01.01 Autosplitter/Modules.md",
+    "03. Speedruns/03.01 Livesplit/03.01.02 Скрипты/Обновление сплитов.md"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "letters": "sadfjklewcmpgh",
+  "jumpToAnywhereRegex": "([а-яА-ЯёЁ]|\\w){3,}",
+  "lightspeedCaseSensitive": false
+}
